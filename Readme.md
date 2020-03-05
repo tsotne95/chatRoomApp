@@ -41,11 +41,11 @@ Chat support **history** feature, each new client get already existed messages. 
 
 
 Application tested and everything works, like a charm:  
-Server - done  
-Client - done  
-Basic chat - done  
-Multiple clients - done  
-Everyone get messages - done  
-New client get history at starting - done  
-Recovery backup at server starting - done  
-Client supported commands - done  
+Server - :heavy_check_mark:  
+Client - :heavy_check_mark:  
+Basic chat - :heavy_check_mark:  
+Multiple clients - :heavy_check_mark:  
+Everyone get messages - :heavy_check_mark:  
+New client get history at starting - :heavy_check_mark:  
+Recovery backup at server starting - :heavy_check_mark:  
+Client supported commands - :heavy_check_mark:  
