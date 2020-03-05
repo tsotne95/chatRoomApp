@@ -27,7 +27,6 @@ java client.ChatAppClient localhost nickname
 example:
 ```bash
 java client.ChatAppClient localhost Tsotne
-java client.ChatAppClient localhost Eslam
 ```
 
 Supported commands during chatting:
