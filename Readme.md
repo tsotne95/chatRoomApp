@@ -1,4 +1,4 @@
-**Chat application using Java RMI technology**
+**Chat room application using Java RMI technology**
 
 for compile run:
 ```bash
