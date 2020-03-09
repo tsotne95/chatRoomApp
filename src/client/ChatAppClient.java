@@ -69,7 +69,7 @@ public class ChatAppClient extends UnicastRemoteObject implements Receivable {
 
     public static void main(String[] args) {
         if(args.length != 2) {
-            System.out.println("usage: java AuctionClient <server_host> <username>");
+            System.out.println("usage: java ChatAppClient <server_host> <username>");
             System.exit(0);
         }
 
